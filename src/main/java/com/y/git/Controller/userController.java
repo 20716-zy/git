@@ -9,5 +9,6 @@ public class userController {
         System.out.println("hot-fix");
         System.out.println("第二次hot-fix");
         System.out.println("第三次hot-fix");
+        System.out.println("git&idea");
     }
 }
